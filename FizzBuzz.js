@@ -1,6 +1,6 @@
 
 function fizzbuzz() {
-    for (var i = 1; i < 100; i++) {
+    for (var i = 1; i < 10; i++) {
         if (i % 5 === 0) {
             console.log("Buzz");
         }
@@ -16,4 +16,7 @@ function fizzbuzz() {
         
     }
 }
-fizzbuzz();
+fizzbuzz() 
+
+
+ 
